@@ -1,3 +1,9 @@
+/**
+*   Use W, A, S, D followed by enter key to move the character around the method call window
+*   The program is assumed to run on a method window which supports the \f carriage return
+*   that is meant to clear the screen on every frame. Some compliers do not supprot that.
+*   BlueJ IDE is an example which does support the clear screen \f
+*/
 import java.io.*;
 
 class Coin_Collector_Game
