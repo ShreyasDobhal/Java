@@ -1,3 +1,5 @@
+Genetic Algorithm
+=================
 This program implements a concept of artificial intelligence, called Genetic Algorithm.
 It is a kind of randomized algorithm.
 
