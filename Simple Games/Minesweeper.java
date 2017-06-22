@@ -1,7 +1,22 @@
-/*
- * This is a classic minesweeper game
- * works just the same
- */
+/**
+*   Based on the classic Minesweeper Game
+*   
+*   To run the game call Minesweeper.play("Your Name");
+*   
+*   To play, enter the coordinates of the cell that you want to reveal
+*   without space, gap or comma. eg 45 reveals element 4 from top and 5 from left
+*   The cells are indexed 1 to 9
+*   with (1,1) in the top left corner
+*   
+*   You can also mark cells as danger by typing in 'x' after the coordinates eg 45x
+*   You can still reveal the marked cells
+*   Once all the safe cells are revealed you win, else you lose
+*
+*   The program is assumed to run on a method window which supports the \f carriage return
+*   that is meant to clear the screen on every frame. Some compliers do not supprot that.
+*   BlueJ IDE is an example which does support the clear screen \f
+*/
+
 import java.io.*;
 class Minesweeper
 {
