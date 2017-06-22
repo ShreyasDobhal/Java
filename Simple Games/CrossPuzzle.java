@@ -1,3 +1,13 @@
+/**
+*   Use W, A, S, D followed by enter key to move the numbered blocks around the method call window
+*   The program is assumed to run on a method window which supports the \f carriage return
+*   that is meant to clear the screen on every frame. Some compliers do not supprot that.
+*   BlueJ IDE is an example which does support the clear screen \f
+*
+*   The 0 represents the null block or void space which can be used to move other blocks around
+*   Arrange the blocks such that the sequence is correct that is 1,2,3..
+*/
+
 import java.io.*;
 
 class CrossPuzzle
