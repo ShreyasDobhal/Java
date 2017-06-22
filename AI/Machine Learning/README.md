@@ -1,3 +1,5 @@
+Machine Learning
+================
 This program implements a concept of artificial intelligence, called Machine Learning.
 Which is generally used for regression and classification.
 But here machine learning is used to train an agent to play Cross n Zero (Tic Tac Toe)
