@@ -1,4 +1,3 @@
-package Genetic;
 
 import java.util.*;
 
